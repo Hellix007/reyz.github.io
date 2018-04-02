@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/pink%20dust.png);
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 380px;
+    top: 300px;
+}
+
+.text{
+    color: darkseagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    left: 610px;
+    top: 325px;
+}
